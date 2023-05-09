@@ -37,16 +37,9 @@ A bit about myself: my formal education background is in sociology, and I worked
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=googlecloud&logoColor=%23FF9900)
   
-**DevOps - Automation**
-<br>
-![Jenkins](https://img.shields.io/badge/jenkins-%2373C3D5.svg?style=for-the-badge&logo=jenkins&logoColor=%23D24939)
-![Ansible](https://img.shields.io/badge/ansible-%2373C3D5.svg?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
-![Terraform](https://img.shields.io/badge/terraform-%2373C3D5.svg?style=for-the-badge&logo=terraform&logoColor=%237B42BC)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%2373C3D5.svg?style=for-the-badge&logo=github-actions&logoColor=%232088FF)
-  
   **Operating Systems**
   <br>
-  ![Linux](https://img.shields.io/badge/linux-%23494949.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23494949.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macos-%23494949.svg?style=for-the-badge&logo=macos&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%23494949.svg?style=for-the-badge&logo=windows&logoColor=white)
   

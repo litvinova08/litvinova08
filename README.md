@@ -17,8 +17,6 @@ A bit about myself: my formal education background is in sociology, and I worked
 ![JavaScript](https://img.shields.io/badge/javascript-%23494949.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-%23494949.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
-![Express.js](https://img.shields.io/badge/express.js-%23494949.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Java](https://img.shields.io/badge/java-%23494949.svg?style=for-the-badge&logo=java&color=%23494949) 
 ![Spring](https://img.shields.io/badge/spring-%23494949.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F) 
 ![GNU Bash](https://img.shields.io/badge/bash-%23494949.svg?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)

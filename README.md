@@ -46,7 +46,6 @@ A bit about myself: my formal education background is in sociology, and I worked
   
  <p align="left">
 
-[![Margarita's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=litvinova)](https://git.io/streak-stats)
 ![Margarita's GitHub stats](https://github-readme-stats.vercel.app/api?username=litvinova08&theme=dracula&show_icons=true&hide_border=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=litvinova08&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litvinova08&theme=dracula&layout=compact&hide_border=true)

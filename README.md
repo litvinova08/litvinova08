@@ -26,7 +26,6 @@ A bit about myself: my formal education background is in sociology, and I worked
 **Databases**
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%23FC4C02.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1) 
-![MongoDB](https://img.shields.io/badge/mongodb-%23FC4C02.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248) 
   
 **Testing:**
 <br>
@@ -36,14 +35,7 @@ A bit about myself: my formal education background is in sociology, and I worked
 
 **Deployment:**
 <br>
-![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=%23430098) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900)
-![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%23000000.svg?style=for-the-badge&logo=digitalocean&logoColor=%230080FF)
-![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=%2300C7B7)
-![Vagrant](https://img.shields.io/badge/vagrant-%23000000.svg?style=for-the-badge&logo=vagrant&logoColor=%231868F2)
-![Packer](https://img.shields.io/badge/packer-%23000000.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5)
+![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=googlecloud&logoColor=%23FF9900)
   
 **DevOps - Automation**
 <br>
@@ -62,9 +54,9 @@ A bit about myself: my formal education background is in sociology, and I worked
  <p align="left">
 
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampaulsackfield&theme=dracula&show_icons=true&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adampaulsackfield&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampaulsackfield&theme=dracula&layout=compact&hide_border=true)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=litvinova08&theme=dracula&show_icons=true&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=litvinova08&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litvinova08&theme=dracula&layout=compact&hide_border=true)
 
 </p>
 </div>
